@@ -8,7 +8,7 @@ function Right({title}) {
       
       <Top />
 
-      <Bottom title = {title} />
+      <Bottom bTitle = {title} />
     </div>
   )
 }

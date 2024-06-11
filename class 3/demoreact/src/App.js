@@ -4,7 +4,7 @@ function App() {
   let name = 'Md Faysal Alam'
   let age = 19
   let alive = false
-  return (
+  return ( 
     <>
       <Profile myName = {name} />
       <Profile myName = 'Parvez Alam' myThana = 'Motlab'/>
